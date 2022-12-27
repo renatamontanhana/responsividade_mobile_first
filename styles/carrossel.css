@@ -49,6 +49,7 @@
 }
 .descrição__texto {
   font-size: 14px;
+  padding-right: 1em;
 }
 .botões__item {
   margin: 0 0.5em;
